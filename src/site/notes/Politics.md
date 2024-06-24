@@ -13,8 +13,15 @@ https://dg-docs.ole.dev/features/
 
 [testing canvas](obsidian://open?vault=A%20Social%20Network&file=Untitled.canvas )
 
-Development log:
+Issue trees
+Logic tree
+Lecturers UKM profile and google scholars and researchgate
+Syllabus and booklist
 
+Development log:
+- [ ] Unable use canvas, excalidraw and excalibrain
+- [ ] Unable to markmind
+- [ ] Unable to use pdf
 
 ## In relation with other subjects
 - [[History\|History]]

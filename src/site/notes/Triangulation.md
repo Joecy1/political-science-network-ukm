@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/triangulation/"}
+---
+
+
+>Triangulation involves data collected at different places, sources, times, levels of analysis, or perspectives, data that might be quantitative, or might involve intensive interviews or thick historical description.
+>Triangulation ... is another word for refering to the practice of increasing the amount of information to bear on a theory or hypothesis.
+
+King, Gary, Robert O. Keohane, and Sidney Verba, eds. 1995. “The Importance of Research Design in Political Science.” _The American Political Science Review_ 89(2): 475–81.
