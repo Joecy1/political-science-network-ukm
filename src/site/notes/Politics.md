@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/politics/","tags":["gardenEntry"]}
 ---
 
-# Map of content in relation with other subjects
+# Map of Content
 
 https://dg-docs.ole.dev/features/
 
@@ -12,7 +12,11 @@ https://dg-docs.ole.dev/features/
 [[A Dynamic Index of the 3 Years Programme\|A Dynamic Index of the 3 Years Programme]]
 
 [testing canvas](obsidian://open?vault=A%20Social%20Network&file=Untitled.canvas )
-## Primary
+
+Development log:
+
+
+## In relation with other subjects
 - [[History\|History]]
 - [[Sociology\|Sociology]]
 - [[Political sociology\|Political sociology]]
