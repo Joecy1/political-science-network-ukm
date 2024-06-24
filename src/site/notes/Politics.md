@@ -11,6 +11,7 @@ https://dg-docs.ole.dev/features/
 [[Writing a Handbook for myself and for junior\|Writing a Handbook for myself and for junior]]
 [[A Dynamic Index of the 3 Years Programme\|A Dynamic Index of the 3 Years Programme]]
 
+[testing canvas](obsidian://open?vault=A%20Social%20Network&file=Untitled.canvas )
 ## Primary
 - [[History\|History]]
 - [[Sociology\|Sociology]]
