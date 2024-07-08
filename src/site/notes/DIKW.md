@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/dikw/"}
 ---
 
-Data
+# DIKW
+## Data
 - Python
 - SQL
 - Tableau
@@ -20,14 +21,15 @@ Information
 	- Wealth of information creates a poverty of attention. 
 	- Control over consciousness determine the quality of life. Consciousness is how you dissipated attention. 
 	- More information = Less Attention = Less Consciousness = unable to control ver consciousness and thus quality of life deteriorates.
-Knowledge
+## Knowledge
 - Inferences
 	- Descriptive
 	- Causal
 - Model
 - Theory
 - Knowledge Production
-Wisdom
+## Understanding
+## Wisdom
 - Judgment 
 - Prediction
 - Temperance

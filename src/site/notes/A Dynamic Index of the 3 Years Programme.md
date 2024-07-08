@@ -18,6 +18,22 @@ An ambitious goal of this index is to develop into an [One Promising Solution: L
 
 # Zotero public library of encyclopaedia and SAGE handbook
 
+# Learn how to use dataview
+
+- [ ] Get class photo from 
+- [ ] Using YouTube as a repository of video
+- [ ] Post Video onto YouTube then use the websites for viewing those production of videos
+
+ - People
+ - Institutions with focus
+ - Event
+	 - Lectures
+	 - Courses
+ - Processes
+	 - Assignment
+	 - 
+
+
 Some websites need Iframe, will see later.
 
 Information architect
