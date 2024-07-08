@@ -26,6 +26,7 @@ Knowledge
 	- Causal
 - Model
 - Theory
+- Knowledge Production
 Wisdom
 - Judgment 
 - Prediction
@@ -33,7 +34,7 @@ Wisdom
 - Trial and error
 - Practice is the only criterion to test truth
 
-X:: Research, Design, Research design, Design Thinking, Learning, [[Liberal Arts\|Liberal Arts]], Problem Solving, [[Logic\|Logic]]
+X:: Research, Design, Research design, Design Thinking, [[Learning\|Learning]], [[Liberal Arts\|Liberal Arts]], Problem Solving, [[Logic\|Logic]], [[Information theory\|Information theory]]
 
 The use of tools to aid imagination, ease the storage and retrieval process, 
 
