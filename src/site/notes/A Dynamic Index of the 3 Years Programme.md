@@ -14,6 +14,8 @@ An ambitious goal of this index is to develop into an [One Promising Solution: L
 
 [A random article that aims develop political sensitivity so that you do not get too bogged by your fellow politician, Cheers]
 
+![Youtube](https://www.youtube.com/watch?v=2TP_auH7lV0)
+
 Mindmap 20240707.html
 
 ![[Mindmap 20240707.html]]
