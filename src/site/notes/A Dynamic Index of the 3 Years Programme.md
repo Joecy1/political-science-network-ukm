@@ -14,6 +14,10 @@ An ambitious goal of this index is to develop into an [One Promising Solution: L
 
 [A random article that aims develop political sensitivity so that you do not get too bogged by your fellow politician, Cheers]
 
+Mindmap 20240707.html
+
+![[Mindmap 20240707.html]]
+
 Target audience (1) Aspiring students to study Pol Science in UKM (2) UKM Pol Science Students (3) general publics to deliberate about politics (we do this because we believe the power lies with the rakyat and the rakyat must use it wisely).
 
 What is politics? 
