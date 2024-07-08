@@ -14,7 +14,7 @@
 - Qualitative and Quantitative
 - Triangulation
 - Mixed Methods
-Information
+## Information
 - Richard Saul Wurman - information Architect and Information Anxiety
 - Manuel Lima
 - Map of Content
