@@ -14,7 +14,22 @@ An ambitious goal of this index is to develop into an [One Promising Solution: L
 
 [A random article that aims develop political sensitivity so that you do not get too bogged by your fellow politician, Cheers]
 
+# Make full use of embedding image and embedding website and YouTube links
+
+# Zotero public library of encyclopaedia and SAGE handbook
+
+Some websites need Iframe, will see later.
+
+Information architect
+Information literacy
+ Image that are relevant and help the use to visualise instead of producing noises
+
+
 ![image](https://imageonline.co/image.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2TP_auH7lV0?si=04Gmw6gVdbmQjlSl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 ![Youtube](https://www.youtube.com/watch?v=2TP_auH7lV0)
 
