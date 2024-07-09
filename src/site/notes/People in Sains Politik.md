@@ -5,7 +5,7 @@
 [[Batch 2021-2022\|Batch 2021-2022]]
 [[Batch 2022-2023\|Batch 2022-2023]]
 [[Batch 2023-2024\|Batch 2023-2024]]
-[[Lecturer\|Lecturer]]
+[[lecturer\|Lecturer]]
 [SPHEA offical website](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ukm.my/sphea/en/&ved=2ahUKEwj9t9K6zMaCAxWqSGwGHT_5CY8QFnoECAwQAQ&usg=AOvVaw1ZkfN6Blua-qWg-uJdh0cv)
 
 

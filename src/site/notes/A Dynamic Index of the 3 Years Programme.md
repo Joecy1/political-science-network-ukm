@@ -46,6 +46,8 @@ Information literacy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I5fUxGX2LJk?si=HUl22IVIi_JnxQCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.bing.com/images/create/a-spectrum-of-publics2c-influencer2c-expert2c-officia/1-668ceb6e844245c094ba535d583679fe?id=Exro9kLJIbHrAFjXQ5J%2byA%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG1.0CUJcwZt7r8BU2F5V56N&frame=sydedg&FORM=SYDBIC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 Target audience (1) Aspiring students to study Pol Science in UKM (2) UKM Pol Science Students (3) general publics to deliberate about politics (we do this because we believe the power lies with the rakyat and the rakyat must use it wisely).
 
