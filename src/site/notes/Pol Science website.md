@@ -45,3 +45,7 @@ ___
 
 ---
 [[Spaces/Pol Science Website Ideation/Lectures\|Spaces/Pol Science Website Ideation/Lectures]]
+
+
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-412B56XX48"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-412B56XX48'); </script>
+
