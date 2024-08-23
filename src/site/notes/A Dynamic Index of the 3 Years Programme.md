@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-dynamic-index-of-the-3-years-programme/"}
+{"dg-publish":true,"permalink":"/A Dynamic Index of the 3 Years Programme/"}
 ---
 
 A dual-language UKM Political Science efforts to empower the publics on politics.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/keohane-philosophy-theory-ideology1976/","title":"Philosophy, Theory, Ideology: An Attempt at Clarification","tags":["Source"]}
+{"dg-publish":true,"permalink":"/keohanePhilosophyTheoryIdeology1976/","title":"Philosophy, Theory, Ideology: An Attempt at Clarification","tags":["Source"]}
 ---
 
 

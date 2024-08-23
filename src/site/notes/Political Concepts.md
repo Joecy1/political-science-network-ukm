@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/political-concepts/"}
+{"dg-publish":true,"permalink":"/Political Concepts/"}
 ---
 
 README: 

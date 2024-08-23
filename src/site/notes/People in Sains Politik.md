@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people-in-sains-politik/"}
+{"dg-publish":true,"permalink":"/People in Sains Politik/"}
 ---
 
 [[Batch 2021-2022\|Batch 2021-2022]]

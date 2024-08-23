@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/triangulation/"}
+{"dg-publish":true,"permalink":"/Triangulation/"}
 ---
 
 

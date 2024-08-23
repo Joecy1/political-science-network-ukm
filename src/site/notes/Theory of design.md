@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/theory-of-design/"}
+{"dg-publish":true,"permalink":"/Theory of design/"}
 ---
 
 ## THE EVALUATION OF DESIGNS 

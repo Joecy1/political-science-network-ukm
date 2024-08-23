@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/political-science/concepts/theory/","tags":["polsci","theory"]}
+{"dg-publish":true,"permalink":"/Political Science/Concepts/Theory/","tags":["polsci","theory"]}
 ---
 
 

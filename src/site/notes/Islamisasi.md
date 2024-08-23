@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/islamisasi/"}
+{"dg-publish":true,"permalink":"/Islamisasi/"}
 ---
 
 *Islamisation*

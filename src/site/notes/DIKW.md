@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dikw/"}
+{"dg-publish":true,"permalink":"/DIKW/"}
 ---
 
 # DIKW

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/civil-society/"}
+{"dg-publish":true,"permalink":"/Civil Society/"}
 ---
 
 Masyarakat Sivil

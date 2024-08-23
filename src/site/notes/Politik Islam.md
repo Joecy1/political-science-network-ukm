@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politik-islam/"}
+{"dg-publish":true,"permalink":"/Politik Islam/"}
 ---
 
 

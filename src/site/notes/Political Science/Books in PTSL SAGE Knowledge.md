@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/political-science/books-in-ptsl-sage-knowledge/"}
+{"dg-publish":true,"permalink":"/Political Science/Books in PTSL SAGE Knowledge/"}
 ---
 
 up:: [[Political Science/Political Science Resources\|Political Science Resources]]

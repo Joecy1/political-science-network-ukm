@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/politics/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Politics/","tags":["gardenEntry"]}
 ---
 
 # Map of Content
+
+
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-412B56XX48"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-412B56XX48'); </script>
 
 https://dg-docs.ole.dev/features/
 
