@@ -10,6 +10,27 @@ As a students in PS, we all have a job to fill, some pain in the route and gain 
 - [ ] The importance of it for a gamer
 - [ ] Attuned to a purpose 
 
+- [ ] Embedding the pictures of a canvas 
+- [ ] ![[System Dynamics.canvas|System Dynamics]]
+- [ ] ![System Dynamics.png](/img/user/System%20Dynamics.png)
+- [ ] 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/political-science/sem-2/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+Entrepreneurship
+	Business Model Canvas
+	Design thinking
+	
+	
+
+</div></div>
+
+
+
+![[A Conceptual Framework of Research.canvas|A Conceptual Framework of Research]]
+
 
 | Backlog | To-do | Doing | Done |
 | ------- | ----- | ----- | ---- |
