@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Features Ask/"}
+{"dg-publish":true,"permalink":"/features-ask/"}
 ---
 
 As a students in PS, we all have a job to fill, some pain in the route and gain in the journey. This page is design to let you voice  out your job, pain and gain so that we can tp into our knowledge, skills or connections to help you. 
