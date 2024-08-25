@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/The Great Issues of Politics/"}
+{"dg-publish":true,"permalink":"/the-great-issues-of-politics/"}
 ---
 
 > Rather than act blindly, we search blindly, we search for a rationale, a [[Principle\|Principle]] of cause and effect, a set of laws that will make the relationships plain. 

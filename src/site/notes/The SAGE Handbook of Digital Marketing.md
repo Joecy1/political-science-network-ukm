@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/The SAGE Handbook of Digital Marketing/"}
+{"dg-publish":true,"permalink":"/the-sage-handbook-of-digital-marketing/"}
 ---
 
 - [Front Matter](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/reference/the-sage-handbook-of-digital-marketing#)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sem 5 MOC/"}
+{"dg-publish":true,"permalink":"/sem-5-moc/"}
 ---
 
 # Sem 5 MOC

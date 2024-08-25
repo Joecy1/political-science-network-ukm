@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Political Science/Concepts/Political Theory/"}
+{"dg-publish":true,"permalink":"/political-science/concepts/political-theory/"}
 ---
 
 

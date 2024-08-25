@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Year 3 Sem 1 Exam Preparation/"}
+{"dg-publish":true,"permalink":"/year-3-sem-1-exam-preparation/"}
 ---
 
 - Exams

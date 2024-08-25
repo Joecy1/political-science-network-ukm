@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Political Science/Concepts/System, analysis and theory/"}
+{"dg-publish":true,"permalink":"/political-science/concepts/system-analysis-and-theory/"}
 ---
 
 Plano, Jack. C.; Riggs, Robert. E.; Robin, Helenan S. Robin. 1973. The Dictionary of Political Analysis. 2nd ed. California: ABC-Clio.

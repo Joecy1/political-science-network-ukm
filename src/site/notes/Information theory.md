@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Information theory/"}
+{"dg-publish":true,"permalink":"/information-theory/"}
 ---
 
 information

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Politics/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/politics/","tags":["gardenEntry"]}
 ---
 
 # Map of Content

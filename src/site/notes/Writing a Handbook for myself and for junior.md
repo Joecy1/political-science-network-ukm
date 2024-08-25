@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Writing a Handbook for myself and for junior/"}
+{"dg-publish":true,"permalink":"/writing-a-handbook-for-myself-and-for-junior/"}
 ---
 
 Survey for post-grad - The actual information from our seniors

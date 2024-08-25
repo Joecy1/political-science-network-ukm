@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Social Network Research/"}
+{"dg-publish":true,"permalink":"/social-network-research/"}
 ---
 
 Robins, Garry. 2015. _Doing Social Network Research: Network-Based Research Design for Social Scientists_. Los Angeles: SAGE. [Libby]

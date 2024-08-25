@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Political Science/Concepts/Concept, Models, Macrotheories, Paradigm/","tags":["theory"]}
+{"dg-publish":true,"permalink":"/political-science/concepts/concept-models-macrotheories-paradigm/","tags":["theory"]}
 ---
 
 **Concept** is a general idea about something. It is the tools with which we think, criticize, argue, explain, and analyse. There are essentially contested concepts.

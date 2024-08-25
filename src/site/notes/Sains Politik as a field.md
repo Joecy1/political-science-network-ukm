@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sains Politik as a field/"}
+{"dg-publish":true,"permalink":"/sains-politik-as-a-field/"}
 ---
 
 Who constitutes the field? 

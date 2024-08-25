@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Pol Science website/"}
+{"dg-publish":true,"permalink":"/pol-science-website/"}
 ---
 
 

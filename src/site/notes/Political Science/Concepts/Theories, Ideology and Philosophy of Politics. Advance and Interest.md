@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Political Science/Concepts/Theories, Ideology and Philosophy of Politics. Advance and Interest/"}
+{"dg-publish":true,"permalink":"/political-science/concepts/theories-ideology-and-philosophy-of-politics-advance-and-interest/"}
 ---
 
 

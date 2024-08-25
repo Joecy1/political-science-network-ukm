@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/shivelyCraftPoliticalResearch2009/","title":"The craft of political research","tags":["Source"]}
+{"dg-publish":true,"permalink":"/shively-craft-political-research2009/","title":"The craft of political research","tags":["Source"]}
 ---
 
 

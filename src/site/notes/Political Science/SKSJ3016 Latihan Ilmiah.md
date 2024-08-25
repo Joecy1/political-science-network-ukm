@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Political Science/SKSJ3016 Latihan Ilmiah/"}
+{"dg-publish":true,"permalink":"/political-science/sksj-3016-latihan-ilmiah/"}
 ---
 
 SKSJ3206 Latihan Ilmiah

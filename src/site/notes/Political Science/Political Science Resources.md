@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Political Science/Political Science Resources/"}
+{"dg-publish":true,"permalink":"/political-science/political-science-resources/"}
 ---
 
 up:: [[Political Science MOC\|Political Science MOC]]

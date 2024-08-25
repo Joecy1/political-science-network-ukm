@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Political Science/Political Theory Dimension/"}
+{"dg-publish":true,"permalink":"/political-science/political-theory-dimension/"}
 ---
 
 ![[Induction, deduction, constructivism, naturalism graph.jpg\|800]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Political Science/Sem 6/"}
+{"dg-publish":true,"permalink":"/political-science/sem-6/"}
 ---
 
 SKPD3013 Workplace Competencies

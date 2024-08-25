@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Political Science/Concepts/What is -ism/"}
+{"dg-publish":true,"permalink":"/political-science/concepts/what-is-ism/"}
 ---
 
 Every subject has its own terminology.

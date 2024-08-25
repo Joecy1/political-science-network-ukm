@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mermaid diagram/"}
+{"dg-publish":true,"permalink":"/mermaid-diagram/"}
 ---
 
 flowchart TD
