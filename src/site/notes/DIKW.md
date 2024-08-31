@@ -3,6 +3,27 @@
 ---
 
 # DIKW
+What is DIKW? Why DIKW? DIKW stand for data, information, knowledge, wisdom. Data is the most basic piece of information. it is usually being captured by machine, for example sensors, algorithm, or excel sheets. Information is the level in which human usually communicate at. Knowledge is organised information. If you really want to go into detail, see epistemology which meant theory of knowledge. It initiates the topic on what can be count as knowledge and what can't. Understand knowledge at that level can help you identify which information to trust and which not to. Wisdom is doing the right thing, at the right time and right place to the right extend over time. You will ask, what then is "right"? 
+
+We must say this, it depends. It depends on the context and the relationship the matter is in connection with. 
+
+The problem for university students is that we 
+
+It is a long term game - a reputation and a trust game. 
+
+Find jobs - Find place to reduce - Can you offer tools for students so that they can use it and implement in their workflow so that 
+
+Students digitalisation adoptions 
+
+Survey
+
+
+
+Digitalisation and Metaverse
+
+It is significant to highlight on what is digital. Digital means 0 and 1. That is how machine "talks" using a logic gate to open and close. We talk to machine use programming language converted through a compiler to operate machine. 
+
+
 ## Data
 - Python
 - SQL

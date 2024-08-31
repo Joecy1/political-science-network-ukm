@@ -16,25 +16,25 @@ up:: [[Political Science/Political Science Resources\|Political Science Resource
 - **DOI:** https://doi.org/10.4135/9781446270301
 
 - ### Front Matter
-    - [Copyright](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/165979/Copyright/1)
-    - [Dedication](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/165979/Dedication/1)
-    - [Thanks!](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/165979/Thanks!/1)
-    - [List of Abbreviations](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/165979/List_of_Abbreviations/1)
-    - [Acknowledgements](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/165979/Acknowledgements/1)
-    - [Introduction](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/165979/Introduction/1)
-    ### Chapters
-    - [_Chapter 1:_ Reflections on the Relation between Theory and Practice for Our Times](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n1.xml)
-    - [_Chapter 2:_ Politics of Globalisation: Theoretical Debates](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n2.xml)
-    - [_Chapter 3:_ Theory of Public Choice: Implications for Democracy](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n3.xml)
-    - [_Chapter 4:_ Justice, Citizenship and the Politics of Feminism](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n4.xml)
-    - [_Chapter 5:_ Group Identities and Rights: A Case for Theory beyond the Nation-State](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n5.xml)
-    - [_Chapter 6:_ Civil Society: Alternatives and Differences](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n6.xml)
-    - [_Chapter 7:_ Albert Camus and the Politics of Friendship](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n7.xml)
-    - [_Chapter 8:_ Dismantling the Political](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n8.xml)
-    - [_Chapter 9:_ Discourse Ethics: Rediscovering the Link between Rationality and Morality](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n9.xml)
-    - [_Chapter 10:_ Debates on Protecting Traditional Knowledge in the Age of Globalisation: A Call for Re-Imagining Political Theory](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n10.xml)
-    - [_Chapter 11:_ The Camp as Nomos of the Modern: Interrogating the Armed Forces (Special Powers) Act, 1958](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n11.xml)
-    - [_Chapter 12:_ The Crime of Torture](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n12.xml)
+- [Copyright](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/165979/Copyright/1)
+- [Dedication](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/165979/Dedication/1)
+- [Thanks!](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/165979/Thanks!/1)
+- [List of Abbreviations](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/165979/List_of_Abbreviations/1)
+- [Acknowledgements](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/165979/Acknowledgements/1)
+- [Introduction](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/165979/Introduction/1)
+### Chapters
+- [_Chapter 1:_ Reflections on the Relation between Theory and Practice for Our Times](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n1.xml)
+- [_Chapter 2:_ Politics of Globalisation: Theoretical Debates](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n2.xml)
+- [_Chapter 3:_ Theory of Public Choice: Implications for Democracy](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n3.xml)
+- [_Chapter 4:_ Justice, Citizenship and the Politics of Feminism](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n4.xml)
+- [_Chapter 5:_ Group Identities and Rights: A Case for Theory beyond the Nation-State](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n5.xml)
+- [_Chapter 6:_ Civil Society: Alternatives and Differences](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n6.xml)
+- [_Chapter 7:_ Albert Camus and the Politics of Friendship](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n7.xml)
+- [_Chapter 8:_ Dismantling the Political](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n8.xml)
+- [_Chapter 9:_ Discourse Ethics: Rediscovering the Link between Rationality and Morality](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n9.xml)
+- [_Chapter 10:_ Debates on Protecting Traditional Knowledge in the Age of Globalisation: A Call for Re-Imagining Political Theory](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n10.xml)
+- [_Chapter 11:_ The Camp as Nomos of the Modern: Interrogating the Armed Forces (Special Powers) Act, 1958](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n11.xml)
+- [_Chapter 12:_ The Crime of Torture](https://sk-sagepub-com.eresourcesptsl.ukm.remotexs.co/books/interdisciplinary-perspectives-in-political-theory/n12.xml)
 
 
 ## The SAGE Handbook of Digital Society
