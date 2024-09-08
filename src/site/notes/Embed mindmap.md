@@ -9,18 +9,4 @@
 
 
 
-# why doe active code error happen?
-
-## 
-
-## Sub title
-
-## Sub title
-
-## Sub title
-
-## Sub title
-
-## I dont know what happen
-
 </div></div>
