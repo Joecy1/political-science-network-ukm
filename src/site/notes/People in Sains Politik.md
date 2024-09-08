@@ -9,8 +9,8 @@
 [SPHEA offical website](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ukm.my/sphea/en/&ved=2ahUKEwj9t9K6zMaCAxWqSGwGHT_5CY8QFnoECAwQAQ&usg=AOvVaw1ZkfN6Blua-qWg-uJdh0cv)
 
 
-![[ASEAN's Critical Assessment and Practical Reforms.pdf]]
+![[ASEAN's Critical Assessment and Practical Reforms.pdf\|ASEAN's Critical Assessment and Practical Reforms.pdf]]
 
-![[2021_Comparative Regionalism.pdf]]
+![[2021_Comparative Regionalism.pdf\|2021_Comparative Regionalism.pdf]]
 
-![[ASEAN_2020_ASEAN rapid assessment.pdf]]
+![[ASEAN_2020_ASEAN rapid assessment.pdf\|ASEAN_2020_ASEAN rapid assessment.pdf]]
